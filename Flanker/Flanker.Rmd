@@ -1,0 +1,13 @@
+---
+title: "Flanker description"
+author: "Matt Crump"
+date: "8/16/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
+```
+
+This example runs a basic flanker experiment in jspsych, using code I think mostly from the jspsych documentation. This example mostly uses javascript for everything, including stimulus generation.
+
